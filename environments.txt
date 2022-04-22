@@ -1,3 +1,1 @@
 path: https://artifactory.in.here.com/artifactory/hasdk-devops-maintenance/butylin/test/
-login:
-password:
